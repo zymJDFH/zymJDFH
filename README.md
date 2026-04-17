@@ -25,9 +25,8 @@
 ## 📈 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zthinedge&theme=github-compact&hide_border=true&area=true)
 
-## 🐍 Contribution 
-![Snake animation](https://raw.githubusercontent.com/zthinedge/zthinedge/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/zthinedge/zthinedge/output/github-snake.svg)
 
 ## 📫 Contact
-- 欢迎交流 C++ 后端、网络编程与数据库内核实现。
-
+- 欢迎交流 C++ 后端、网络编程与数据库内核实现 
