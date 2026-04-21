@@ -22,11 +22,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zthinedge&show_icons=true&hide_border=true&hide_rank=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zthinedge&layout=compact&hide_border=true)
 
-## 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zthinedge&theme=github-compact&hide_border=true&area=true)
-
-## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/zthinedge/zthinedge/output/github-snake.svg)
 
 ## 📫 Contact
 - 欢迎交流 C++ 后端、网络编程与数据库内核实现 
